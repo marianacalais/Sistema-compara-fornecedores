@@ -82,10 +82,6 @@ cadastrada para o produto escolhido.
 
 ### Responsabilidades
 
-## ServicoCotacao
-
-### Responsabilidades
-
 - Centralizar as regras de negócio relacionadas às cotações
 - Consultar ofertas cadastradas para um produto específico
 - Consultar cotações realizadas por determinado fornecedor
