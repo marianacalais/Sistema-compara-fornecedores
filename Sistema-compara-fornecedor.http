@@ -1,0 +1,6 @@
+@Sistema_compara_fornecedor_HostAddress = http://localhost:5141
+
+GET {{Sistema_compara_fornecedor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
